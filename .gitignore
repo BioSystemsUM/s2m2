@@ -2,6 +2,9 @@
 build_exercise_2.py
 textbook.json
 
+#mp4 files
+*.mp4
+
 ### Jetbrains
 # ignore idea
 .idea
