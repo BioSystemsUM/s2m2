@@ -50,6 +50,6 @@ Please check the presentation for the hands-on sessions on phenotype_prediction 
 
 ### Strain optimization
 In the folder `mewpy_tutorial`, you can find the material for all exercises of the hands-on sessions on Computational Strain Optimization.
-Each jupyter notebook contains the answers to all questions of a given exercise. These notebooks start by loading a GEM model from the `data` directory.
+Each jupyter notebook contains the answers to all questions of a given exercise.
 Jupyter notebooks for exercises 8 to 11 will be used in this hands-on session.
 Please check the presentations for the hands-on sessions on Computational Strain Optimization and Alternative Modelling Approaches to know more about the exercises.
