@@ -53,3 +53,8 @@ In the folder `mewpy_tutorial`, you can find the material for all exercises of t
 Each jupyter notebook contains the answers to all questions of a given exercise.
 Jupyter notebooks for exercises 8 to 11 will be used in this hands-on session.
 Please check the presentations for the hands-on sessions on Computational Strain Optimization and Alternative Modelling Approaches to know more about the exercises.
+
+### Integration of omics data
+In the folder `omics`, you can find the material for all exercises of the hands-on sessions on omics integration.
+Each jupyter notebook contains the answers to all questions of a given exercise.
+Jupyter notebooks for exercises 12 to 13 will be used in this hands-on session.
