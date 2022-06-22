@@ -57,4 +57,4 @@ Please check the presentations for the hands-on sessions on Computational Strain
 ### Integration of omics data
 In the folder `omics`, you can find the material for all exercises of the hands-on sessions on omics integration.
 Each jupyter notebook contains the answers to all questions of a given exercise.
-Jupyter notebooks for exercises 12 to 13 will be used in this hands-on session.
+Jupyter notebooks for exercises 12 to 14 will be used in this hands-on session.
