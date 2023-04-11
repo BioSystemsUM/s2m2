@@ -8,6 +8,7 @@ textbook.json
 ### Jetbrains
 # ignore idea
 .idea
+.DS_Store
 
 ### JupyterNotebooks template
 # gitignore template for Jupyter Notebooks
