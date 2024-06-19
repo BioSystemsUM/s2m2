@@ -1,4 +1,4 @@
-# Summer School in Metabolic Modeling - 2022 edition
+# Summer School in Metabolic Modeling - 2024 edition
 
 ## Description
 The course will introduce state-of-the-art metabolic modeling covering the full process from model reconstruction 
